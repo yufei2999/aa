@@ -20,7 +20,7 @@ public class Log4jToDb {
         // 这两个没存入
         logger.trace("TRACE: " + hello);
         logger.debug("DEBUG: " + hello);
-        // 这本个已存入
+        // 这四个已存入
         logger.info("INFO: " + hello);
         logger.warn("WARN: " + hello);
         logger.error("ERROR: " + hello);
